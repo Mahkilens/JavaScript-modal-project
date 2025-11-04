@@ -93,7 +93,8 @@ Even though it’s simple, it’s the foundation for features like popups, alert
 
 ## 🧑‍💻 Author
 **Makhilens**  
-📸 [Instagram](https://instagram.com/Makhilens) | 💻 [GitHub](https://github.com/Makhilens) 
+📸 [LInkedin]([https://instagram.com/Makhilens](https://www.linkedin.com/in/marquis-prescott-a58852258/)) | 💻 [GitHub](https://github.com/Makhilens) 
 
 ## 🏷️ Tags
 `#JavaScript` `#FrontendDevelopment` `#DOMManipulation` `#WebDevelopment` `#LearningInPublic`
+
